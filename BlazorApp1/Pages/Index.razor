@@ -73,18 +73,18 @@
         imageUrl = my_urls[_random.Next(0, 9)];
     }
 
-    private async Task OpenMusicModal()
+    private void OpenMusicModal()
     {
-        await JSRuntime.InvokeAsync<object>("OpenModal", _element);
+        JSRuntime.InvokeAsync<object>("OpenModal", _element);
     }
 
-    private async Task CloseMusicModal()
+    private void CloseMusicModal()
     {
-        await JSRuntime.InvokeAsync<object>("CloseModal", _element);
+        JSRuntime.InvokeAsync<object>("CloseModal", _element);
     }
 
-    private async Task NavigateLichess()
+    private void NavigateLichess()
     {
-        await JSRuntime.InvokeAsync<object>("open", "https://lichess.org/@/Nawa094", "_blank");
+        JSRuntime.InvokeAsync<object>("open", "https://lichess.org/@/Nawa094", "_blank");
     }
   }
