@@ -7,7 +7,6 @@
   <PropertyGroup>
     <TargetFramework>net5</TargetFramework>
     <ServiceWorkerAssetsManifest>service-worker-assets.js</ServiceWorkerAssetsManifest>
-	  <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
