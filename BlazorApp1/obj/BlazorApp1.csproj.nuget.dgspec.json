@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net5.0": {
+            "targetAlias": "net5",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5",
           "dependencies": {
             "Blazorise.Sidebar": {
               "target": "Package",
@@ -50,16 +50,16 @@
             },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[5.0.0, )"
             },
             "System.Net.Http.Json": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
@@ -74,8 +74,8 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.0, 6.0.0]"
+              "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
+              "version": "[5.0.12, 5.0.12]"
             }
           ],
           "frameworkReferences": {

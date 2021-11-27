@@ -1,0 +1,6 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\bin\Debug\net5\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/Blazorise" Path="C:\Users\nawam01\.nuget\packages\blazorise\0.9.5\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Blazorise.Sidebar" Path="C:\Users\nawam01\.nuget\packages\blazorise.sidebar\0.9.5\build\..\staticwebassets\" />
+</StaticWebAssets>

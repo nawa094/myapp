@@ -173,11 +173,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-CSy1DjlRkxtz0QTKW3bBdOtIDjx+ZgAP9sscIH6dJDk=",
+      "hash": "sha256-EqrBuxRZO9gzQimTVcE\/uAjfXSVngdZQ90+XPg01vCQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-zJLu5zbmeHx36qRxf5BdAIpoElLx8qCzH1uQx8Mc4RA=",
+      "hash": "sha256-5Rw9kq+A3yLLkaX\/2yoBdmVmu1fBvyNbsqYkG0JJ0J8=",
       "url": "_framework\/BlazorApp1.dll"
     },
     {
@@ -473,5 +473,5 @@
       "url": "_content\/Blazorise\/vendors\/Pickr.js"
     }
   ],
-  "version": "jCrpuu5+"
+  "version": "XpJ3uyvn"
 };
