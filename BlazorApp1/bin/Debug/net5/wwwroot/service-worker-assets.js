@@ -109,7 +109,7 @@
       "url": "_content\/Blazorise.Sidebar\/blazorise.sidebar.css"
     },
     {
-      "hash": "sha256-FlWsDFJHPE\/5QzWBqIBdoroB2jhsvo7Mk2rPD6nax0w=",
+      "hash": "sha256-4EJE89X5EJ5RqQeWUl3Iq2n4\/15wruibX4UrJNBOFcw=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -137,7 +137,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
-      "hash": "sha256-9CImgVVTV8hPEwfOS4ivEjHFDJ3LOoRySrRJts34VAg=",
+      "hash": "sha256-Gn5x+etSBJCU2\/tQFt87H3b\/Y0ZLbNk0zW\/4huun47A=",
       "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
@@ -205,7 +205,7 @@
       "url": "_framework\/Microsoft.JSInterop.dll"
     },
     {
-      "hash": "sha256-5AkXTXHIeXryrSr97JWjBrndsRjoslMVJ8e7FqupHUw=",
+      "hash": "sha256-XdVfH1edFXMdfwiEgZKasAJgRMixaRUe7lzqmeJDJtw=",
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
@@ -901,15 +901,15 @@
       "url": "_framework\/dotnet.5.0.12.js"
     },
     {
-      "hash": "sha256-5t9DAynHhaE95FrSsO\/+lViNHR2fdyG42lKUcpEhFPQ=",
+      "hash": "sha256-qXkSeNnE0CgbVPVgLKN\/5jmuibwGGu7SZzy3k2IYX1Y=",
       "url": "_framework\/BlazorApp1.dll"
     },
     {
-      "hash": "sha256-l8pD1okWYiz\/YgAuRlghLX+M+E9FoK8+LMquo3yB+hM=",
+      "hash": "sha256-E4GPrGj9cDsAjKJPKo3LeNPv6GK3vpakvaumNvu10XA=",
       "url": "_framework\/BlazorApp1.pdb"
     },
     {
-      "hash": "sha256-aUUhSORllrlw6mUXuKFR72wUPfryKu60ogDqZUdBukM=",
+      "hash": "sha256-dl8FVRvWOJfOtzIC\/x66QNnBNsT9cAOMrn22GB8fJ8U=",
       "url": "_framework\/blazor.webassembly.js"
     },
     {
@@ -937,7 +937,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll.gz"
     },
     {
-      "hash": "sha256-U7LyfkbdjVhVBadOFpzbbhl23fVH\/vFQpMd4O4KOo\/U=",
+      "hash": "sha256-L91JlhU\/f4XhmXGPebYZg1rs6hFO+tnYqEdtgNFXXrs=",
       "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.dll.gz"
     },
     {
@@ -1005,7 +1005,7 @@
       "url": "_framework\/Microsoft.JSInterop.dll.gz"
     },
     {
-      "hash": "sha256-8G\/jn\/ufK\/piQoHjqKnb78eChfXBCuo9gBD+kX6nOd8=",
+      "hash": "sha256-NyikGgj9JFxGKGbR9mvO94SH2BNs8EF+qRYLQjSseZc=",
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
@@ -1849,5 +1849,5 @@
       "url": "BlazorApp1.bundle.scp.css"
     }
   ],
-  "version": "j7\/Cjp1Q"
+  "version": "GhRWvxQE"
 };

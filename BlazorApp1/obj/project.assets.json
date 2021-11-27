@@ -102,14 +102,14 @@
           "lib/net5.0/Microsoft.AspNetCore.Components.Web.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Components.WebAssembly/5.0.0": {
+      "Microsoft.AspNetCore.Components.WebAssembly/5.0.12": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "5.0.0",
+          "Microsoft.AspNetCore.Components.Web": "5.0.12",
           "Microsoft.Extensions.Configuration.Binder": "5.0.0",
           "Microsoft.Extensions.Configuration.Json": "5.0.0",
           "Microsoft.Extensions.Logging": "5.0.0",
-          "Microsoft.JSInterop.WebAssembly": "5.0.0"
+          "Microsoft.JSInterop.WebAssembly": "5.0.12"
         },
         "compile": {
           "lib/net5.0/Microsoft.AspNetCore.Components.WebAssembly.dll": {}
@@ -121,7 +121,7 @@
           "build/net5.0/Microsoft.AspNetCore.Components.WebAssembly.props": {}
         }
       },
-      "Microsoft.AspNetCore.Components.WebAssembly.DevServer/5.0.0": {
+      "Microsoft.AspNetCore.Components.WebAssembly.DevServer/5.0.12": {
         "type": "package",
         "build": {
           "build/Microsoft.AspNetCore.Components.WebAssembly.DevServer.targets": {}
@@ -315,10 +315,10 @@
           "lib/net5.0/Microsoft.JSInterop.dll": {}
         }
       },
-      "Microsoft.JSInterop.WebAssembly/5.0.0": {
+      "Microsoft.JSInterop.WebAssembly/5.0.12": {
         "type": "package",
         "dependencies": {
-          "Microsoft.JSInterop": "5.0.0"
+          "Microsoft.JSInterop": "5.0.12"
         },
         "compile": {
           "lib/net5.0/Microsoft.JSInterop.WebAssembly.dll": {}
@@ -447,14 +447,14 @@
           "lib/net5.0/Microsoft.AspNetCore.Components.Web.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Components.WebAssembly/5.0.0": {
+      "Microsoft.AspNetCore.Components.WebAssembly/5.0.12": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "5.0.0",
+          "Microsoft.AspNetCore.Components.Web": "5.0.12",
           "Microsoft.Extensions.Configuration.Binder": "5.0.0",
           "Microsoft.Extensions.Configuration.Json": "5.0.0",
           "Microsoft.Extensions.Logging": "5.0.0",
-          "Microsoft.JSInterop.WebAssembly": "5.0.0"
+          "Microsoft.JSInterop.WebAssembly": "5.0.12"
         },
         "compile": {
           "lib/net5.0/Microsoft.AspNetCore.Components.WebAssembly.dll": {}
@@ -466,7 +466,7 @@
           "build/net5.0/Microsoft.AspNetCore.Components.WebAssembly.props": {}
         }
       },
-      "Microsoft.AspNetCore.Components.WebAssembly.DevServer/5.0.0": {
+      "Microsoft.AspNetCore.Components.WebAssembly.DevServer/5.0.12": {
         "type": "package",
         "build": {
           "build/Microsoft.AspNetCore.Components.WebAssembly.DevServer.targets": {}
@@ -660,10 +660,10 @@
           "lib/net5.0/Microsoft.JSInterop.dll": {}
         }
       },
-      "Microsoft.JSInterop.WebAssembly/5.0.0": {
+      "Microsoft.JSInterop.WebAssembly/5.0.12": {
         "type": "package",
         "dependencies": {
-          "Microsoft.JSInterop": "5.0.0"
+          "Microsoft.JSInterop": "5.0.12"
         },
         "compile": {
           "lib/net5.0/Microsoft.JSInterop.WebAssembly.dll": {}
@@ -842,10 +842,10 @@
         "microsoft.aspnetcore.components.web.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Components.WebAssembly/5.0.0": {
-      "sha512": "w+gdDoGdc2+/Y91tNwU6C0RxdUy/hBC5TSdfIIp8/7XHKNEvZ1/Z7vvPC8kxHmmvhQe7351zyu9cGYTYZXLUEA==",
+    "Microsoft.AspNetCore.Components.WebAssembly/5.0.12": {
+      "sha512": "Aj6niy+SvHSO1xSOLlzfZ+LYyBB0Rknqsvk0Tdpllgf61KCaE2DJhzlpbI4JEGRGYNagNAMiOCgsZefq03gzCQ==",
       "type": "package",
-      "path": "microsoft.aspnetcore.components.webassembly/5.0.0",
+      "path": "microsoft.aspnetcore.components.webassembly/5.0.12",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -855,14 +855,14 @@
         "build/net5.0/blazor.webassembly.js",
         "lib/net5.0/Microsoft.AspNetCore.Components.WebAssembly.dll",
         "lib/net5.0/Microsoft.AspNetCore.Components.WebAssembly.xml",
-        "microsoft.aspnetcore.components.webassembly.5.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.components.webassembly.5.0.12.nupkg.sha512",
         "microsoft.aspnetcore.components.webassembly.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Components.WebAssembly.DevServer/5.0.0": {
-      "sha512": "MuUiNc/kKKCsiXB0Yu7aXuUKsoQKVSX/nWRlCZnmRPUMWDvqQbO0SpjMAh2QbLUic3RpVPLKtM0nUidP5y4Xeg==",
+    "Microsoft.AspNetCore.Components.WebAssembly.DevServer/5.0.12": {
+      "sha512": "nYme/5RQDDLh8t1+qqIkwh7Cmitv5Xl4Gz2I7J+fkEjz/rZtLJZoKAZ9cHJ5mTpFckeVjWeioWwOJcVKhItbhA==",
       "type": "package",
-      "path": "microsoft.aspnetcore.components.webassembly.devserver/5.0.0",
+      "path": "microsoft.aspnetcore.components.webassembly.devserver/5.0.12",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -870,7 +870,7 @@
         "Icon.png",
         "THIRD-PARTY-NOTICES.txt",
         "build/Microsoft.AspNetCore.Components.WebAssembly.DevServer.targets",
-        "microsoft.aspnetcore.components.webassembly.devserver.5.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.components.webassembly.devserver.5.0.12.nupkg.sha512",
         "microsoft.aspnetcore.components.webassembly.devserver.nuspec",
         "tools/BlazorDebugProxy/BrowserDebugHost.dll",
         "tools/BlazorDebugProxy/BrowserDebugHost.runtimeconfig.json",
@@ -883,12 +883,6 @@
         "tools/BlazorDebugProxy/Newtonsoft.Json.dll",
         "tools/Microsoft.AspNetCore.Components.WebAssembly.Server.dll",
         "tools/Microsoft.AspNetCore.Components.WebAssembly.Server.xml",
-        "tools/Microsoft.Extensions.Configuration.Abstractions.dll",
-        "tools/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-        "tools/Microsoft.Extensions.FileProviders.Abstractions.dll",
-        "tools/Microsoft.Extensions.Hosting.Abstractions.dll",
-        "tools/Microsoft.Extensions.Logging.Abstractions.dll",
-        "tools/Microsoft.Extensions.Options.dll",
         "tools/Microsoft.Extensions.Primitives.dll",
         "tools/System.IO.Pipelines.dll",
         "tools/blazor-devserver.deps.json",
@@ -1226,10 +1220,10 @@
         "microsoft.jsinterop.nuspec"
       ]
     },
-    "Microsoft.JSInterop.WebAssembly/5.0.0": {
-      "sha512": "f2uQYLAZvHso78R65wlKVAk0NqedwbO6Kc2gvSccHmnGoliNwx+wtw3ofY+AqLEnqzE8mCS0XXn5p8kuPDprTQ==",
+    "Microsoft.JSInterop.WebAssembly/5.0.12": {
+      "sha512": "U25awnUte6Zxi5YHhQKoOJweTlaH8toxAQ5X0G77hKFd85nFD9YxmEtnXQC7ChO37AayTQTlTnzXLBxe61POOQ==",
       "type": "package",
-      "path": "microsoft.jsinterop.webassembly/5.0.0",
+      "path": "microsoft.jsinterop.webassembly/5.0.12",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1237,7 +1231,7 @@
         "THIRD-PARTY-NOTICES.txt",
         "lib/net5.0/Microsoft.JSInterop.WebAssembly.dll",
         "lib/net5.0/Microsoft.JSInterop.WebAssembly.xml",
-        "microsoft.jsinterop.webassembly.5.0.0.nupkg.sha512",
+        "microsoft.jsinterop.webassembly.5.0.12.nupkg.sha512",
         "microsoft.jsinterop.webassembly.nuspec"
       ]
     },
@@ -1293,8 +1287,8 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "Blazorise.Sidebar >= 0.9.5",
-      "Microsoft.AspNetCore.Components.WebAssembly >= 5.0.0",
-      "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 5.0.0",
+      "Microsoft.AspNetCore.Components.WebAssembly >= 5.0.12",
+      "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 5.0.12",
       "System.Net.Http.Json >= 5.0.0"
     ]
   },
@@ -1348,12 +1342,12 @@
           },
           "Microsoft.AspNetCore.Components.WebAssembly": {
             "target": "Package",
-            "version": "[5.0.0, )"
+            "version": "[5.0.12, )"
           },
           "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[5.0.0, )"
+            "version": "[5.0.12, )"
           },
           "System.Net.Http.Json": {
             "target": "Package",

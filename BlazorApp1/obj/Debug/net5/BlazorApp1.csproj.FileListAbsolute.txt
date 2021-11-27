@@ -411,7 +411,6 @@ C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\bin\Debug\n
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\bin\Debug\net5\wwwroot\_framework\icudt_EFIGS.dat
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\bin\Debug\net5\wwwroot\_framework\icudt_no_CJK.dat
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\bin\Debug\net5\wwwroot\_framework\dotnet.5.0.12.js
-C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\BlazorApp1.csproj.AssemblyReference.cache
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\BlazorApp1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\BlazorApp1.AssemblyInfoInputs.cache
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\BlazorApp1.AssemblyInfo.cs
@@ -449,7 +448,6 @@ C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\n
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\build-gz\+ULR2J0v.gz
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\build-gz\WbDfV6zs.gz
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\build-gz\i+k+fN2I.gz
-C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\build-gz\qS3fXKNL.gz
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\build-gz\1iXMD5ne.gz
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\build-gz\zq8RhPiI.gz
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\build-gz\Vrre+PfL.gz
@@ -466,7 +464,6 @@ C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\n
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\build-gz\fwvNEvqL.gz
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\build-gz\TdOMx2IC.gz
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\build-gz\fc8xMOBx.gz
-C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\build-gz\EdA16ufJ.gz
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\build-gz\SLGoQka5.gz
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\build-gz\xFIL0Eu9.gz
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\build-gz\8Lqq6ixJ.gz
@@ -653,3 +650,5 @@ C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\n
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\BlazorApp1.pdb
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\serviceworkers\wwwroot\service-worker.js
 C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\service-worker-assets.js
+C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\build-gz\hN87ZwZc.gz
+C:\Users\nawam01\Documents\blackhole\Tailwind\myapp\myapp\BlazorApp1\obj\Debug\net5\build-gz\aCwzhos3.gz
