@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "48d12955-bf78-491f-8b73-30963442cc3f": {
+      "ProjectGuid": "48d12955-bf78-491f-8b73-30963442cc3f",
+      "DisplayName": "Tailwind.Blazor",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
