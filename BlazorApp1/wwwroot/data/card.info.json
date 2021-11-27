@@ -1,22 +1,32 @@
 [
   {
+    "Title": "Nawa Mumbwe",
+    "Body": " It's me, I'm the content ",
+    "ImageUrl": ""
+  },
+  {
     "Title": "Life",
-    "Body": "I was born in Lusaka, Zambia on 6th of January 1994. I don't remember much from my time in Zambia but apparently I was a shy and reserved child (I've since come out of my shell)'\nIn 1997 when I was 3 years old my family moved to South Africa where we stayed in a few places including Pretoria, Bizana and Harding. We finally settled in Port Shepstone on the South Coast of Kwa-Zulu Natal when I was 6 years old and that's where most of my childhood was spent.'"
+    "Body": "I was born in Lusaka, Zambia on 6th of January 1994. I don't remember much from my time in Zambia but apparently I was a shy and reserved child (I've since come out of my shell)'\nIn 1997 when I was 3 years old my family moved to South Africa where we stayed in a few places including Pretoria, Bizana and Harding. We finally settled in Port Shepstone on the South Coast of Kwa-Zulu Natal when I was 6 years old and that's where most of my childhood was spent.'",
+    "ImageUrl" : "zambia.png"
   },
   {
     "Title": "Education",
-    "Body": "The Port Shepstone area has a few good schoold that start from Port Shepstone Junior primary (grade 1-4) to Port Shepstone High School (grades 8-12) where I matriculated. From Sheppie high I attended univerity at The University of Pretoria where I obtained my degree in Geology.\n\nAfter completing my degree I had to introspect about my career path and decided I'd like to work in the technology industry, I had always been facinated with technology and had an interest (which my parents encourged as much as they could). I joined WeThinkCode, a software development bootcamp, with no previous experience and graduated (6 months early) as one of the top performing students."
+    "Body": "The Port Shepstone area has a few good schoold that start from Port Shepstone Junior primary (grade 1-4) to Port Shepstone High School (grades 8-12) where I matriculated. From Sheppie high I attended univerity at The University of Pretoria where I obtained my degree in Geology.\n\nAfter completing my degree I had to introspect about my career path and decided I'd like to work in the technology industry, I had always been facinated with technology and had an interest (which my parents encourged as much as they could). I joined WeThinkCode, a software development bootcamp, with no previous experience and graduated (6 months early) as one of the top performing students.",
+    "ImageUrl" :  "education.jpeg"
   },
   {
     "Title": "Experience",
-    "Body": "The WeThinkCode_ curriculum is a 2 year program in which 8 months of the total 24 are decicated to two 4-month internships. My first internship was at OUTsurance where I worked in the OUTvest team. I impressed during this period and was offered a permanent contract (without having to complete a second internship), which is what motivated me to complete my studies early. The completion of my studies was a prerequisite to joining OUTsurance.\nAfter joining OUTsurance I was placed in the Life Team as a .Net developer and this is where I currently work."
+    "Body": "The WeThinkCode_ curriculum is a 2 year program in which 8 months of the total 24 are decicated to two 4-month internships. My first internship was at OUTsurance where I worked in the OUTvest team. I impressed during this period and was offered a permanent contract (without having to complete a second internship), which is what motivated me to complete my studies early. The completion of my studies was a prerequisite to joining OUTsurance.\nAfter joining OUTsurance I was placed in the Life Team as a .Net developer and this is where I currently work.",
+    "ImageUrl": "experience.jpeg"
   },
   {
     "Title": "Hobbies",
-    "Body": "As someone who graduated with a degree in geology and works as a software developer you can tell I have a wide range of interests. Top of these are chess, code and sports. I was fortunate enough to represent to University of Pretoria at the USSA (University Sports South Africa) competition for chess, where we finished first overall. Occasionally I like to leave the city and hike alone just to recharge (some alone time is good for me), but a braai with the boys is also a pretty good weekend in my eye. Rugby and football are my favourite sports (even though Arsenal keep letting me down, at least my Sharks make me proud!)"
+    "Body": "As someone who graduated with a degree in geology and works as a software developer you can tell I have a wide range of interests. Top of these are chess, code and sports. I was fortunate enough to represent to University of Pretoria at the USSA (University Sports South Africa) competition for chess, where we finished first overall. Occasionally I like to leave the city and hike alone just to recharge (some alone time is good for me), but a braai with the boys is also a pretty good weekend in my eye. Rugby and football are my favourite sports (even though Arsenal keep letting me down, at least my Sharks make me proud!)",
+    "ImageUrl": "chess.png"
   },
   {
     "Title": "Ambitions",
-    "Body": " I love learning. Being able to sit down and work my way to a solution is how I've taught myself to write code and that dedication extends to different areas of my life. This mindset has helped my turn every failure into an opportunity to learn.\nAs a black person in technology, I hope to teach and promote this industry within my community as a tool to improve lives. Technology has the potential to solve probelms all over the African continent and I hope to find as many solutions as I can. "
+    "Body": " I love learning. Being able to sit down and work my way to a solution is how I've taught myself to write code and that dedication extends to different areas of my life. This mindset has helped my turn every failure into an opportunity to learn.\nAs a black person in technology, I hope to teach and promote this industry within my community as a tool to improve lives. Technology has the potential to solve probelms all over the African continent and I hope to find as many solutions as I can. ",
+    "ImageUrl": "ambition.jpeg"
   }
 ]
