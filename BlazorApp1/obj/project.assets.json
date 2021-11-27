@@ -1760,11 +1760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nawam01\\Documents\\blackhole\\Tailwind\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+      "projectUniqueName": "C:\\Users\\nawam01\\Documents\\blackhole\\Tailwind\\myapp\\myapp\\BlazorApp1\\BlazorApp1.csproj",
       "projectName": "BlazorApp1",
-      "projectPath": "C:\\Users\\nawam01\\Documents\\blackhole\\Tailwind\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+      "projectPath": "C:\\Users\\nawam01\\Documents\\blackhole\\Tailwind\\myapp\\myapp\\BlazorApp1\\BlazorApp1.csproj",
       "packagesPath": "C:\\Users\\nawam01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nawam01\\Documents\\blackhole\\Tailwind\\BlazorApp1\\BlazorApp1\\obj\\",
+      "outputPath": "C:\\Users\\nawam01\\Documents\\blackhole\\Tailwind\\myapp\\myapp\\BlazorApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
